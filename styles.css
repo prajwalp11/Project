@@ -1,0 +1,65 @@
+.trn{
+    background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0));
+}
+.whatsapp-icon{
+  font-size: 25.0px;
+  background-color: green;
+  color: #ffff;
+  padding:0.5rem;
+  margin:0.5rem;
+  border-radius:100%;
+}
+.search-icon{
+    font-size: 25.0px;
+    background-color: gray;
+    color: #000;
+    padding:0.5rem;
+    margin:0.5rem;
+    border-radius:100%;
+}
+.admission-button{
+    margin: 0.5rem;
+}
+.opening-image-slider{
+    padding: 0px;
+}
+.ann{
+    border: solid;
+    border-right: 0;
+    background-color:#F0EEED;
+    border-color: grey;
+    color: blue;
+    font-size:1.2rem;
+    font-weight:500;
+    text-align: center;
+}
+.nucat-link{
+    border: solid;
+    border-color: grey;
+}
+#section-below-carousel{
+    margin:5% 0%;
+}
+#nu-link{
+    list-style: circle;
+    margin-bottom:0;
+    text-decoration: none;
+    color: red;
+}
+.both-ann-nucat{
+    box-shadow: 10px 5px 5px grey;
+}
+#section-below-admission{
+    background-color:#F0EEED;
+}
+.yt-vdo{
+    border-radius: 25px;
+    margin:15%;
+}
+.carousel2{
+    width:20rem;
+    margin: 15%;
+}
+.carousel2-indicators{
+    color: #000;
+}
